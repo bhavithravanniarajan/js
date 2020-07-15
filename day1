@@ -1,0 +1,11 @@
+question 1
+
+log()-display output of console
+error()-isplay error message
+warn()-display warning
+time() and timeEnd()-display time taken to execute
+table()-display content in table
+
+question2
+
+var,let,const
